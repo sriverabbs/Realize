@@ -1,4 +1,4 @@
-{
+{'rrr'
   suppressMessages({
     library(plyr); library(dplyr)
     library(crosstalk)
